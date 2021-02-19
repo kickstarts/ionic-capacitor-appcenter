@@ -1,0 +1,7 @@
+{
+  "name": "ionicCapacitorAppCenter",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
